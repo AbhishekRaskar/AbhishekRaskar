@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🌱 I’m currently learning **MERN Stack. <br>💬 Ask me about MERN Stack & related.<br>📫 How to reach me abhiraskar77@gmail.com<br>👨‍💻 All my projects are available at https://AbhishekRaskar.github.io/
+🌱 I’m currently learning MERN Stack. <br>💬 Ask me about MERN Stack & related.<br>📫 How to reach me abhiraskar77@gmail.com<br>👨‍💻 All my projects are available at https://AbhishekRaskar.github.io/
 
 
 ## 🌐 Socials:
