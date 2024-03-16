@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Raskar</h1>
 <h3 align="center">A Passionate Full Stack Web Developer</h3>
-
+<h4>
+Hi there! I'm a web developer who knows how to work on both the front and back ends of websites. I enjoy solving tough problems and making websites that are easy to use. Whether it's making things look good or making sure they work behind the scenes, I can handle it all. Think of me as someone who can build a whole website from scratch!</h4>
 
 # 💫 About Me:
 🌱 I’m currently learning MERN Stack. <br>💬 Ask me about MERN Stack & related.<br>📫 How to reach me abhiraskar77@gmail.com<br>👨‍💻 Know more about me [Portfolio](https://abhishekraskar.github.io/)
