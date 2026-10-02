@@ -1,20 +1,29 @@
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" align="right" style="width: 100%; max-width: 500px; height: auto; display: block; margin-left: auto;" />
+<div align="center">
+  <table>
+    <tr>
+      <td valign="center" width="60%">
+        <h1 align="left">
+          Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Abhishek Raskar
+        </h1>
 
-<h1 align="left">
-  Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Abhishek Raskar
-</h1>
-
-<h3>
-  <samp>
-    <strong>
-      Software Engineer | Full Stack Developer | GenAI Enthusiast 🚀
-      <br>
-      2+ years building scalable web applications and enterprise AI products.
-      <br>
-      Specializing in JavaScript, Python, React, Node.js, AWS, and RAG-based AI systems.
-    </strong>
-  </samp>
-</h3>
+        <h3>
+          <samp>
+            <strong>
+              Software Engineer | Full Stack Developer | GenAI Enthusiast 🚀
+              <br>
+              2+ years building scalable web applications and enterprise AI products.
+              <br>
+              Specializing in JavaScript, Python, React, Node.js, AWS, and RAG-based AI systems.
+            </strong>
+          </samp>
+        </h3>
+      </td>
+      <td valign="center" width="40%" align="center">
+        <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="420" alt="Developer illustration" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <hr>
 
