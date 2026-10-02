@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" align="right" width="500" height="300" />
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" align="right" style="width: 100%; max-width: 500px; height: auto; display: block; margin-left: auto;" />
 
 <h1 align="left">
   Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Abhishek Raskar
