@@ -1,29 +1,18 @@
-<div align="center">
-  <table>
-    <tr>
-      <td valign="center" width="60%">
-        <h1 align="left">
-          Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Abhishek Raskar
-        </h1>
+<h1 align="left">
+  Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Abhishek Raskar
+</h1>
 
-        <h3>
-          <samp>
-            <strong>
-              Software Engineer | Full Stack Developer | GenAI Enthusiast 🚀
-              <br>
-              2+ years building scalable web applications and enterprise AI products.
-              <br>
-              Specializing in JavaScript, Python, React, Node.js, AWS, and RAG-based AI systems.
-            </strong>
-          </samp>
-        </h3>
-      </td>
-      <td valign="center" width="40%" align="center">
-        <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="420" alt="Developer illustration" />
-      </td>
-    </tr>
-  </table>
-</div>
+<h3>
+  <samp>
+    <strong>
+      Software Engineer | Full Stack Developer | GenAI Enthusiast 🚀
+      <br>
+      2+ years building scalable web applications and enterprise AI products.
+      <br>
+      Specializing in JavaScript, Python, React, Node.js, AWS, and RAG-based AI systems.
+    </strong>
+  </samp>
+</h3>
 
 <hr>
 
@@ -165,7 +154,7 @@ Cloud-based, AI-driven commercial lending platform covering full loan lifecycle 
     <img src="https://github-readme-stats.vercel.app/api?username=AbhishekRaskar&theme=gotham&show_icons=true&count_private=true&hide_border=true" width="48%" alt="Abhishek GitHub stats" />
   </a>
   <a href="https://github.com/AbhishekRaskar">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekRaskar&theme=gotham&hide_border=true" width="48%" alt="Abhishek GitHub streak stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekRaskar&theme=gotham&hide_border=true&langs_count=6&count_private=true&layout=compact" alt="Top languages" />
   </a>
 </div>
 
@@ -173,7 +162,7 @@ Cloud-based, AI-driven commercial lending platform covering full loan lifecycle 
 
 <div align="center">
   <a href="https://github.com/AbhishekRaskar">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekRaskar&theme=gotham&hide_border=true&langs_count=6&count_private=true&layout=compact" alt="Top languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekRaskar&theme=gotham&hide_border=true" width="48%" alt="Abhishek GitHub streak stats" />
   </a>
 </div>
 
