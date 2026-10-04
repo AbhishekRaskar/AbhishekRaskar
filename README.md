@@ -5,7 +5,7 @@
 <h3>
   <samp>
     <strong>
-      Software Engineer | Full Stack Developer | GenAI Enthusiast 🚀
+      Software Engineer | Full Stack Developer | GenAI Enthusiast
       <br>
       2+ years building scalable web applications and enterprise AI products.
       <br>
